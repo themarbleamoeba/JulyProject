@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Destiny | Exotics and Legendaries</title>
+      <link href='http://fonts.googleapis.com/css?family=Orbitron:500,700' rel='stylesheet' type='text/css'>
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
+		  <link rel="stylesheet" href="css/styles.css">
+	</head>
+   <body>
+     
+     <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+        <a class="navbar-brand text-muted hidden-xs" href="index.html">Destiny Exotics and Legendaries</a>
+        <div class="collapse navbar-collapse">
+          
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="exotic.html">Exotic</a></li>
+            <li class="dropdown">
+              <a data-toggle="dropdown" data-target="#">Legendary<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="vendor.html">Vendors</a></li> 
+                <li class="active"><a href="IB.html">Iron Banner</a></li>
+                <li><a href="raid.html">Raid</a></li>
+              </ul>  
+            </li>
+          </ul> 
+          
+        </div>
+      </div>
+    </div>
+     
+      <div class="container">      
+          <div class="col-sm-12">
+     
+     <div class="ibTitle">
+      <h1 id="iBW">Iron Banner Weapons</h1>
+     </div>
+          
+            <ul class="exotics">
+            <li><img src="../images/Iron Banner/Weapons/EfrideetsSpear.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/FelwintersLie.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/GheleonsDemise.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/JoldersHammer.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/PerunsFire.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/RadegastsFury.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/SilimarsWrath.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/SkorrisRevenge.jpg"></li>
+            <li><img src="../images/Iron Banner/Weapons/TimursLash.jpg"></li>
+              </ul>
+            </div>
+        
+        <div class="col-sm-12">
+     
+     <div class="ibArmor">
+      <h1 id="iBW">Iron Banner Armor</h1>
+     </div>
+          
+            <ul class="exotics">
+            <li><img src="../images/Iron Banner/Armor/FelwintersIB.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrBoots.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrBootsW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrGauntletsT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrGlovesW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrGreatHelmT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrGreavesT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrHoodW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrMaskH.jpg"></li>
+              <li><img src="../images/Iron Banner/Armor/IBrPlateT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrSleeves.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrVestementsW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IBrVestH.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRBootsH.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRBootsW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRGauntletsT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRGlovesW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRGreatHelmT.jpg"></li>
+              <li><img src="../images/Iron Banner/Armor/IRGreavesT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRHoodW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRMaskH.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRPlateT.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRSleevesH.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRVestH.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/IRVestW.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/JoldersIS.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/MoG.jpg"></li>
+              <li><img src="../images/Iron Banner/Armor/MoP.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/SilimarsIS.jpg"></li>
+            <li><img src="../images/Iron Banner/Armor/SkorrisIB.jpg"></li>
+              </ul>
+            </div>
+        </div>
+      <script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+       <script src="js/scripts.js" type="text/javascript" charset="utf-8"></script>
+     <script src="js/bootstrap.min.js"></script>
+   </body>
+   </html>
