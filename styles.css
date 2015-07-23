@@ -1,0 +1,104 @@
+
+
+body {
+  background-color: #777;
+}
+
+.container {
+ font-family: 'Orbitron', sans-serif;
+ color: #fff;
+}
+
+.dropdown-menu {
+  font-family: 'Orbitron', sans-serif;
+  border-radius: 10px;
+}
+
+.intro {
+  font-family: 'Orbitron', sans-serif;
+  color: #28ac9f;
+  font-size: 40px;
+  margin-top: 100px;
+}
+
+.eTW {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 407px;
+  background-color:#000;
+  border-radius: 10px;
+}
+
+.eTA {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 343px;
+  background-color:#000;
+  border-radius: 10px;
+}
+
+.ibTitle {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 517px;
+  background-color:#fff;
+  border-radius: 10px;
+}
+
+.vogTitle {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 569px;
+  background-color:#fff;
+  border-radius: 10px;
+}
+
+.vogArmor {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 505px;
+  background-color:#fff;
+  border-radius: 10px;
+}
+
+.ibArmor {
+  margin: 0 0 0 40px;
+  height: 40px;
+  width: 453px;
+  background-color:#fff;
+  border-radius: 10px;
+}
+
+#eWeapon {
+  margin: 100px 0 0 40px;
+  color: #f5d04c;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#eArmor {
+  margin: 50px 0 0 40px;
+  color: #f5d04c;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#iBW {
+  margin: 100px 0 0 40px;
+  color: #600077;
+  font-family: 'Orbitron', sans-serif;
+}
+.exotics{
+  margin-top: 50px;
+}
+.exotics > li{
+  padding-right: 2.5px;
+  margin-top: 10px;
+  list-style-type: none;
+  display: inline;
+}
+
+.footer {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  text-align: center;  
+}
+
